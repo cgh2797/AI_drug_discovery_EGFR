@@ -4,7 +4,7 @@ There is a file of "AI-based drug discovery of TKIs targeting L858R/T790M/C797S-
 ## data
 1. tinib_139.xlsx - data for transfer learning
 2. train.txt - training data for general chemistry rules [[link](https://github.com/Xyqii/RNN_generator)]
-3. result_360.csv - result of AI drug discovery (360 molecules)
+3. result_360.csv - result of AI drug discovery (360 molecules: structures, chemical properties, EGFR binding affinity)
 
 ## method
 
