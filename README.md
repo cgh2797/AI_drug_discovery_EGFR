@@ -1,4 +1,4 @@
-There is a file of "AI-based drug discovery of TKIs targeting L858R/T790M/C797S- mutant EGFR in non-small cell lung cancer".
+There is a file of "[AI-based drug discovery of TKIs targeting L858R/T790M/C797S- mutant EGFR in non-small cell lung cancer](https://www.frontiersin.org/articles/10.3389/fphar.2021.660313/full)".
 
 
 ## data
